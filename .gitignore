@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+*.o
+*.a
+*.sw*
+a.out
+*.dSYM
+valgrind.rpt
+push.sh
